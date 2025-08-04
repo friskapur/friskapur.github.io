@@ -5,7 +5,6 @@
     "map": "https://maps.app.goo.gl/hS5kovzZWDhq4uke7",
     "facebook_group": "https://www.facebook.com/groups/473406413883265",
     "details":"Located left to the main entrance of Andrými",
-    "responsible_person": "Marco Pizzolato",
     "date_created": null,
     "status": "active"
   },
@@ -15,7 +14,6 @@
     "map": "https://maps.app.goo.gl/riZQzSCJ2UEzSt7r5",
     "facebook_group": "https://www.facebook.com/groups/2369822753157161",
     "details":"At the back of Neskirkja",
-    "responsible_person": "Rósa Björg Jónsdóttir",
     "date_created": null,
     "status": "active"
   },
@@ -25,7 +23,6 @@
     "map": "https://maps.app.goo.gl/ekdybLt4NmfQ7ZpH9",
     "facebook_group": "https://www.facebook.com/groups/1016441485602028",
     "details":"Near the entrance",
-    "responsible_person": "Inga",
     "date_created": null,
     "status": "active"
   },
@@ -45,7 +42,6 @@
     "map": "https://maps.app.goo.gl/X3MUvi4AYtKC7BYb8",
     "facebook_group": "https://www.facebook.com/groups/1068408003878173",
     "details":"Near parking behind church",
-    "responsible_person": "community volunteers",
     "date_created": null,
     "status": "active"
   },
@@ -55,7 +51,6 @@
     "map": "https://maps.app.goo.gl/6TPgt5sqQcajSjCC6",
     "facebook_group": "https://www.facebook.com/groups/1847834258893485/",
     "details":"Near Town Hall outside bottom floor",
-    "responsible_person": "Gerður Páls­dóttir",
     "date_created": "2024‑03‑XX",
     "status": "active"
   },
@@ -65,7 +60,6 @@
     "map": "https://maps.app.goo.gl/vTmAomqjZX4L5RHc8",
     "facebook_group": "https://www.facebook.com/groups/646422340102704",
     "details":"At the back of Nytjamarkaðurinn",
-    "responsible_person": "Karen Gestsdóttir & Lauren Walton",
     "date_created": "2023‑03‑09",
     "status": "active"
   },
@@ -75,7 +69,6 @@
     "map": "https://maps.app.goo.gl/JAS3gnMaiTtXjnFo9",
     "facebook_group": "https://www.facebook.com/groups/416151787240378",
     "details":"Right of the entrance near the wall",
-    "responsible_person": "local volunteers (library‑site)",
     "date_created": "2022‑03‑02",
     "status": "active"
   },
@@ -85,7 +78,6 @@
     "map": "https://maps.app.goo.gl/JrUHk8Tjf4ab1Nxx5",
     "facebook_group": "https://www.facebook.com/groups/654971909350507",
     "details":"Near Hjálpræðisherinn Reykjanesbæ",
-    "responsible_person": "Salvation Army Reykjanesbæ",
     "date_created": null,
     "status": "active"
   },
@@ -105,7 +97,6 @@
     "map": "https://maps.app.goo.gl/9D7uUF1q4SY653SY7",
     "facebook_group": "https://www.facebook.com/groups/1189651241654970/",
     "details":"Near Ástjarnarkirkja",
-    "responsible_person": "Ástjarnarkirkja",
     "date_created": "2023‑03‑01",
     "status": "active"
   },
@@ -125,7 +116,6 @@
     "map": "https://maps.app.goo.gl/tUdSRJA3hfD6Kr657",
     "facebook_group": "https://www.facebook.com/groups/415328210463534/",
     "details":"Removed",
-    "responsible_person": "community volunteers",
     "date_created": null,
     "status": "removed"
   },
@@ -135,8 +125,8 @@
     "map": "https://maps.app.goo.gl/YZ4oUqUg8vUSBesT6",
     "facebook_group": "https://www.facebook.com/groups/428659758847345",
     "details":"Inactive",
-    "responsible_person": "FAS",
     "date_created": null,
     "status": "removed"
   }
+
 ]
